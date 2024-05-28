@@ -1,2 +1,2 @@
 # First-Shecodes
-My first reprository in Github
+My first repository in Github
